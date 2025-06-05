@@ -16,7 +16,7 @@ python brainfuck.py <filename>
 python converter.py
 python repeater.py
 
-ascii.png is for ascii table and
+ascii table for hexadecimal to ascii charechters
 ![alt text](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/ascii.png)
 example.png is example
 ![alt text](http://url/to/img.png)
