@@ -19,4 +19,4 @@ python repeater.py
 ascii table for hexadecimal to ascii charechters
 ![alt text](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/ascii.png)
 example.png is example
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/github.png)
