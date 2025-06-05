@@ -8,3 +8,10 @@ Its  language built with smallest compiller ever possible using 8 commands (keyw
 _ substracts value from block
 
 syntax for tools, python must be installed to proceed
+syntax for
+python brainfuck.py <filename>
+python converter.py
+python repeater.py
+
+ascii.png is for ascii table and
+example.png is example
