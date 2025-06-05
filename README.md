@@ -17,6 +17,6 @@ python converter.py
 python repeater.py
 
 ascii table for hexadecimal to ascii charechters
-![alt text](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/ascii.png)
+![asciipng](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/ascii.png)
 example.png is example
-![alt text](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/github.png)
+![github.png](https://raw.githubusercontent.com/2511XD/brainfuck/refs/heads/main/github.png)
