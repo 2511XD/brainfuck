@@ -17,4 +17,6 @@ python converter.py
 python repeater.py
 
 ascii.png is for ascii table and
+![alt text](http://url/to/img.png)
 example.png is example
+![alt text](http://url/to/img.png)
